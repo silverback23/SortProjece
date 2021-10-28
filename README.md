@@ -1,4 +1,4 @@
-# SortProje
+# SortProje1
 ## Insertion Sort Projesi
 
 Cevap 1:
